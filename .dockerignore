@@ -16,3 +16,4 @@ build/
 !build/.gemrc
 !build/build.xml
 !build/run
+!build/vendor/*
