@@ -1337,3 +1337,5 @@ User-agent: zauba.io
 Disallow:/
 User-agent: zgrab
 Disallow:/
+
+Sitemap: https://yalearchivesspace.github.io/aspace-sitemaps/sitemap-index.xml
