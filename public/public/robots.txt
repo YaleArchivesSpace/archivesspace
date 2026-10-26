@@ -1338,4 +1338,4 @@ Disallow:/
 User-agent: zgrab
 Disallow:/
 
-Sitemap: https://yalearchivesspace.github.io/aspace-sitemaps/sitemap-index.xml
+Sitemap: https://archives.yale.edu/sitemaps/sitemap-index.xml
